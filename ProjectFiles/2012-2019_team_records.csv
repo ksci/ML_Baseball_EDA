@@ -1,0 +1,241 @@
+Team Name,Team Abbreviation,Year,League,Division,Games,Wins,Loses,Ties,Win_Percentage,Games_Back,Runs_Scored,Runs_Allowed
+Washington Nationals,WSN,2012,National,East,162,98,64,0,0.605,-,731,594
+Atlanta Braves,ATL,2012,National,East,162,94,68,0,0.58,4,700,600
+Philadelphia Phillies,PHI,2012,National,East,162,81,81,0,0.5,17,684,680
+New York Mets,NYM,2012,National,East,162,74,88,0,0.457,24,650,709
+Miami Marlins,MIA,2012,National,East,162,69,93,0,0.426,29,609,724
+Cincinnati Reds,CIN,2012,National,Central,162,97,65,0,0.599,-,669,588
+St. Louis Cardinals,STL,2012,National,Central,162,88,74,0,0.543,9,765,648
+Milwaukee Brewers,MIL,2012,National,Central,162,83,79,0,0.512,14,776,733
+Pittsburgh Pirates,PIT,2012,National,Central,162,79,83,0,0.488,18,651,674
+Chicago Cubs,CHC,2012,National,Central,162,61,101,0,0.377,36,613,759
+Houston Astros,HOU,2012,National,Central,162,55,107,0,0.34,42,583,794
+San Francisco Giants,SFG,2012,National,West,162,94,68,0,0.58,-,718,649
+Los Angeles Dodgers,LAD,2012,National,West,162,86,76,0,0.531,8,637,597
+Arizona Diamondbacks,ARI,2012,National,West,162,81,81,0,0.5,13,734,688
+San Diego Padres,SDP,2012,National,West,162,76,86,0,0.469,18,651,710
+Colorado Rockies,COL,2012,American,West,162,64,98,0,0.395,30,758,890
+New York Yankees,NYY,2012,American,East,162,95,67,0,0.586,-,804,668
+Baltimore Orioles,BAL,2012,American,East,162,93,69,0,0.574,2,712,705
+Tampa Bay Rays,TBR,2012,American,East,162,90,72,0,0.556,5,697,577
+Toronto Blue Jays,TOR,2012,American,East,162,73,89,0,0.451,22,716,784
+Boston Red Sox,BOS,2012,American,East,162,69,93,0,0.426,26,734,806
+Detroit Tigers,DET,2012,American,Central,162,88,74,0,0.543,-,726,670
+Chicago White Sox,CHW,2012,American,Central,162,85,77,0,0.525,3,748,676
+Kansas City Royals,KCR,2012,American,Central,162,72,90,0,0.444,16,676,746
+Cleveland Indians,CLE,2012,American,Central,162,68,94,0,0.42,20,667,845
+Minnesota Twins,MIN,2012,American,Central,162,66,96,0,0.407,22,701,832
+Oakland Athletics,OAK,2012,American,West,162,94,68,0,0.58,-,713,614
+Texas Rangers,TEX,2012,American,West,162,93,69,0,0.574,1,808,707
+Anaheim Angels,LAA,2012,American,West,162,89,73,0,0.549,5,767,699
+Seattle Mariners,SEA,2012,American,West,162,75,87,0,0.463,19,619,651
+Atlanta Braves,ATL,2013,National,East,162,96,66,0,0.593,-,688,548
+Washington Nationals,WSN,2013,National,East,162,86,76,0,0.531,10,656,626
+New York Mets,NYM,2013,National,East,162,74,88,0,0.457,22,619,684
+Philadelphia Phillies,PHI,2013,National,East,162,73,89,0,0.451,23,610,749
+Miami Marlins,MIA,2013,National,East,162,62,100,0,0.383,34,513,646
+St. Louis Cardinals,STL,2013,National,Central,162,97,65,0,0.599,-,783,596
+Pittsburgh Pirates,PIT,2013,National,Central,162,94,68,0,0.58,3,634,577
+Cincinnati Reds,CIN,2013,National,Central,162,90,72,0,0.556,7,698,589
+Milwaukee Brewers,MIL,2013,National,Central,162,74,88,0,0.457,23,640,687
+Chicago Cubs,CHC,2013,National,Central,162,66,96,0,0.407,31,602,689
+Los Angeles Dodgers,LAD,2013,National,West,162,92,70,0,0.568,-,649,582
+Arizona Diamondbacks,ARI,2013,National,West,162,81,81,0,0.5,11,685,695
+San Diego Padres,SDP,2013,National,West,162,76,86,0,0.469,16,618,700
+San Francisco Giants,SFG,2013,National,West,162,76,86,0,0.469,16,629,691
+Colorado Rockies,COL,2013,National,West,162,74,88,0,0.457,18,706,760
+Boston Red Sox,BOS,2013,American,East,162,97,65,0,0.599,-,853,656
+Tampa Bay Rays,TBR,2013,American,East,163,92,71,0,0.564,5.5,700,646
+Baltimore Orioles,BAL,2013,American,East,162,85,77,0,0.525,12,745,709
+New York Yankees,NYY,2013,American,East,162,85,77,0,0.525,12,650,671
+Toronto Blue Jays,TOR,2013,American,East,162,74,88,0,0.457,23,712,756
+Detroit Tigers,DET,2013,American,Central,162,93,69,0,0.574,-,796,624
+Cleveland Indians,CLE,2013,American,Central,162,92,70,0,0.568,1,745,662
+Kansas City Royals,KCR,2013,American,Central,162,86,76,0,0.531,7,648,601
+Minnesota Twins,MIN,2013,American,Central,162,66,96,0,0.407,27,614,788
+Chicago White Sox,CHW,2013,American,Central,162,63,99,0,0.389,30,598,723
+Oakland Athletics,OAK,2013,American,West,162,96,66,0,0.593,-,767,625
+Texas Rangers,TEX,2013,American,West,163,91,72,0,0.558,5.5,730,636
+Anaheim Angels,LAA,2013,American,West,162,78,84,0,0.481,18,733,737
+Seattle Mariners,SEA,2013,American,West,162,71,91,0,0.438,25,624,754
+Houston Astros,HOU,2013,American,West,162,51,111,0,0.315,45,610,848
+Washington Nationals,WSN,2014,National,East,162,96,66,0,0.593,-,686,555
+Atlanta Braves,ATL,2014,National,East,162,79,83,0,0.488,17,573,597
+New York Mets,NYM,2014,National,East,162,79,83,0,0.488,17,629,618
+Miami Marlins,MIA,2014,National,East,162,77,85,0,0.475,19,645,674
+Philadelphia Phillies,PHI,2014,National,East,162,73,89,0,0.451,23,619,687
+St. Louis Cardinals,STL,2014,National,Central,162,90,72,0,0.556,-,619,603
+Pittsburgh Pirates,PIT,2014,National,Central,162,88,74,0,0.543,2,682,631
+Milwaukee Brewers,MIL,2014,National,Central,162,82,80,0,0.506,8,650,657
+Cincinnati Reds,CIN,2014,National,Central,162,76,86,0,0.469,14,595,612
+Chicago Cubs,CHC,2014,National,Central,162,73,89,0,0.451,17,614,707
+Los Angeles Dodgers,LAD,2014,National,West,162,94,68,0,0.58,-,718,617
+San Francisco Giants,SFG,2014,National,West,162,88,74,0,0.543,6,665,614
+San Diego Padres,SDP,2014,National,West,162,77,85,0,0.475,17,535,577
+Colorado Rockies,COL,2014,National,West,162,66,96,0,0.407,28,755,818
+Arizona Diamondbacks,ARI,2014,National,West,162,64,98,0,0.395,30,615,742
+Baltimore Orioles,BAL,2014,American,East,162,96,66,0,0.593,-,705,593
+New York Yankees,NYY,2014,American,East,162,84,78,0,0.519,12,633,664
+Toronto Blue Jays,TOR,2014,American,East,162,83,79,0,0.512,13,723,686
+Tampa Bay Rays,TBR,2014,American,East,162,77,85,0,0.475,19,612,625
+Boston Red Sox,BOS,2014,American,East,162,71,91,0,0.438,25,634,715
+Detroit Tigers,DET,2014,American,Central,162,90,72,0,0.556,-,757,705
+Kansas City Royals,KCR,2014,American,Central,162,89,73,0,0.549,1,651,624
+Cleveland Indians,CLE,2014,American,Central,162,85,77,0,0.525,5,669,653
+Chicago White Sox,CHW,2014,American,Central,162,73,89,0,0.451,17,660,758
+Minnesota Twins,MIN,2014,American,Central,162,70,92,0,0.432,20,715,777
+Anaheim Angels,LAA,2014,American,West,162,98,64,0,0.605,-,773,630
+Oakland Athletics,OAK,2014,American,West,162,88,74,0,0.543,10,729,572
+Seattle Mariners,SEA,2014,American,West,162,87,75,0,0.537,11,634,554
+Houston Astros,HOU,2014,American,West,162,70,92,0,0.432,28,629,723
+Texas Rangers,TEX,2014,American,West,162,67,95,0,0.414,31,637,773
+New York Mets,NYM,2015,National,East,162,90,72,0,0.556,-,683,613
+Washington Nationals,WSN,2015,National,East,162,83,79,0,0.512,7,703,635
+Miami Marlins,MIA,2015,National,East,162,71,91,0,0.438,19,613,678
+Atlanta Braves,ATL,2015,National,East,162,67,95,0,0.414,23,573,760
+Philadelphia Phillies,PHI,2015,National,East,162,63,99,0,0.389,27,626,809
+St. Louis Cardinals,STL,2015,National,Central,162,100,62,0,0.617,-,647,525
+Pittsburgh Pirates,PIT,2015,National,Central,162,98,64,0,0.605,2,697,596
+Chicago Cubs,CHC,2015,National,Central,162,97,65,0,0.599,3,689,608
+Milwaukee Brewers,MIL,2015,National,Central,162,68,94,0,0.42,32,655,737
+Cincinnati Reds,CIN,2015,National,Central,162,64,98,0,0.395,36,640,754
+Los Angeles Dodgers,LAD,2015,National,West,162,92,70,0,0.568,-,667,595
+San Francisco Giants,SFG,2015,National,West,162,84,78,0,0.519,8,696,627
+Arizona Diamondbacks,ARI,2015,National,West,162,79,83,0,0.488,13,720,713
+San Diego Padres,SDP,2015,National,West,162,74,88,0,0.457,18,650,731
+Colorado Rockies,COL,2015,National,West,162,68,94,0,0.42,24,737,844
+Toronto Blue Jays,TOR,2015,American,East,162,93,69,0,0.574,-,891,670
+New York Yankees,NYY,2015,American,East,162,87,75,0,0.537,6,764,698
+Baltimore Orioles,BAL,2015,American,East,162,81,81,0,0.5,12,713,693
+Tampa Bay Rays,TBR,2015,American,East,162,80,82,0,0.494,13,644,642
+Boston Red Sox,BOS,2015,American,East,162,78,84,0,0.481,15,748,753
+Kansas City Royals,KCR,2015,American,Central,162,95,67,0,0.586,-,724,641
+Minnesota Twins,MIN,2015,American,Central,162,83,79,0,0.512,12,696,700
+Cleveland Indians,CLE,2015,American,Central,161,81,80,0,0.503,13.5,669,640
+Chicago White Sox,CHW,2015,American,Central,162,76,86,0,0.469,19,622,701
+Detroit Tigers,DET,2015,American,Central,161,74,87,0,0.46,20.5,689,803
+Texas Rangers,TEX,2015,American,West,162,88,74,0,0.543,-,751,733
+Houston Astros,HOU,2015,American,West,162,86,76,0,0.531,2,729,618
+Anaheim Angels,LAA,2015,American,West,162,85,77,0,0.525,3,661,675
+Seattle Mariners,SEA,2015,American,West,162,76,86,0,0.469,12,656,726
+Oakland Athletics,OAK,2015,American,West,162,68,94,0,0.42,20,694,729
+Washington Nationals,WSN,2016,National,East,162,95,67,0,0.586,-,763,612
+New York Mets,NYM,2016,National,East,162,87,75,0,0.537,8,671,617
+Miami Marlins,MIA,2016,National,East,161,79,82,0,0.491,15.5,655,682
+Philadelphia Phillies,PHI,2016,National,East,162,71,91,0,0.438,24,610,796
+Atlanta Braves,ATL,2016,National,East,161,68,93,0,0.422,26.5,649,779
+Chicago Cubs,CHC,2016,National,Central,162,103,58,1,0.64,-,808,556
+St. Louis Cardinals,STL,2016,National,Central,162,86,76,0,0.531,17.5,779,712
+Pittsburgh Pirates,PIT,2016,National,Central,162,78,83,1,0.484,25,729,758
+Milwaukee Brewers,MIL,2016,National,Central,162,73,89,0,0.451,30.5,671,733
+Cincinnati Reds,CIN,2016,National,Central,162,68,94,0,0.42,35.5,716,854
+Los Angeles Dodgers,LAD,2016,National,West,162,91,71,0,0.562,-,725,638
+San Francisco Giants,SFG,2016,National,West,162,87,75,0,0.537,4,715,631
+Colorado Rockies,COL,2016,National,West,162,75,87,0,0.463,16,845,860
+Arizona Diamondbacks,ARI,2016,National,West,162,69,93,0,0.426,22,752,890
+San Diego Padres,SDP,2016,National,West,162,68,94,0,0.42,23,686,770
+Boston Red Sox,BOS,2016,American,East,162,93,69,0,0.574,-,878,694
+Baltimore Orioles,BAL,2016,American,East,162,89,73,0,0.549,4,744,715
+Toronto Blue Jays,TOR,2016,American,East,162,89,73,0,0.549,4,759,666
+New York Yankees,NYY,2016,American,East,162,84,78,0,0.519,9,680,702
+Tampa Bay Rays,TBR,2016,American,East,162,68,94,0,0.42,25,672,713
+Cleveland Indians,CLE,2016,American,Central,161,94,67,0,0.584,-,777,676
+Detroit Tigers,DET,2016,American,Central,161,86,75,0,0.534,8,750,721
+Kansas City Royals,KCR,2016,American,Central,162,81,81,0,0.5,13.5,675,712
+Chicago White Sox,CHW,2016,American,Central,162,78,84,0,0.481,16.5,686,715
+Minnesota Twins,MIN,2016,American,Central,162,59,103,0,0.364,35.5,722,889
+Texas Rangers,TEX,2016,American,West,162,95,67,0,0.586,-,765,757
+Seattle Mariners,SEA,2016,American,West,162,86,76,0,0.531,9,768,707
+Houston Astros,HOU,2016,American,West,162,84,78,0,0.519,11,724,701
+Anaheim Angels,LAA,2016,American,West,162,74,88,0,0.457,21,717,727
+Oakland Athletics,OAK,2016,American,West,162,69,93,0,0.426,26,653,761
+Washington Nationals,WSN,2017,National,East,162,97,65,0,0.599,-,819,672
+Miami Marlins,MIA,2017,National,East,162,77,85,0,0.475,20,778,822
+Atlanta Braves,ATL,2017,National,East,162,72,90,0,0.444,25,732,821
+New York Mets,NYM,2017,National,East,162,70,92,0,0.432,27,735,863
+Philadelphia Phillies,PHI,2017,National,East,162,66,96,0,0.407,31,690,782
+Chicago Cubs,CHC,2017,National,Central,162,92,70,0,0.568,-,822,695
+Milwaukee Brewers,MIL,2017,National,Central,162,86,76,0,0.531,6,732,697
+St. Louis Cardinals,STL,2017,National,Central,162,83,79,0,0.512,9,761,705
+Pittsburgh Pirates,PIT,2017,National,Central,162,75,87,0,0.463,17,668,731
+Cincinnati Reds,CIN,2017,National,Central,162,68,94,0,0.42,24,753,869
+Los Angeles Dodgers,LAD,2017,National,West,162,104,58,0,0.642,-,770,580
+Arizona Diamondbacks,ARI,2017,National,West,162,93,69,0,0.574,11,812,659
+Colorado Rockies,COL,2017,National,West,162,87,75,0,0.537,17,824,757
+San Diego Padres,SDP,2017,National,West,162,71,91,0,0.438,33,604,816
+San Francisco Giants,SFG,2017,National,West,162,64,98,0,0.395,40,639,776
+Boston Red Sox,BOS,2017,American,East,162,93,69,0,0.574,-,785,668
+New York Yankees,NYY,2017,American,East,162,91,71,0,0.562,2,858,660
+Tampa Bay Rays,TBR,2017,American,East,162,80,82,0,0.494,13,694,704
+Toronto Blue Jays,TOR,2017,American,East,162,76,86,0,0.469,17,693,784
+Baltimore Orioles,BAL,2017,American,East,162,75,87,0,0.463,18,743,841
+Cleveland Indians,CLE,2017,American,Central,162,102,60,0,0.63,-,818,564
+Minnesota Twins,MIN,2017,American,Central,162,85,77,0,0.525,17,815,788
+Kansas City Royals,KCR,2017,American,Central,162,80,82,0,0.494,22,702,791
+Chicago White Sox,CHW,2017,American,Central,162,67,95,0,0.414,35,706,820
+Detroit Tigers,DET,2017,American,Central,162,64,98,0,0.395,38,735,894
+Houston Astros,HOU,2017,American,West,162,101,61,0,0.623,-,896,700
+Anaheim Angels,LAA,2017,American,West,162,80,82,0,0.494,21,710,709
+Seattle Mariners,SEA,2017,American,West,162,78,84,0,0.481,23,750,772
+Texas Rangers,TEX,2017,American,West,162,78,84,0,0.481,23,799,816
+Oakland Athletics,OAK,2017,American,West,162,75,87,0,0.463,26,739,826
+Atlanta Braves,ATL,2018,National,East,162,90,72,0,0.556,-,759,657
+Washington Nationals,WSN,2018,National,East,162,82,80,0,0.506,8,771,682
+Philadelphia Phillies,PHI,2018,National,East,162,80,82,0,0.494,10,677,728
+New York Mets,NYM,2018,National,East,162,77,85,0,0.475,13,676,707
+Miami Marlins,MIA,2018,National,East,161,63,98,0,0.391,26.5,589,809
+Milwaukee Brewers,MIL,2018,National,Central,163,96,67,0,0.589,-,754,659
+Chicago Cubs,CHC,2018,National,Central,163,95,68,0,0.583,1,761,645
+St. Louis Cardinals,STL,2018,National,Central,162,88,74,0,0.543,7.5,759,691
+Pittsburgh Pirates,PIT,2018,National,Central,161,82,79,0,0.509,13,692,693
+Cincinnati Reds,CIN,2018,National,Central,162,67,95,0,0.414,28.5,696,819
+Los Angeles Dodgers,LAD,2018,National,West,163,92,71,0,0.564,-,804,610
+Colorado Rockies,COL,2018,National,West,163,91,72,0,0.558,1,780,745
+Arizona Diamondbacks,ARI,2018,National,West,162,82,80,0,0.506,9.5,693,644
+San Francisco Giants,SFG,2018,National,West,162,73,89,0,0.451,18.5,603,699
+San Diego Padres,SDP,2018,National,West,162,66,96,0,0.407,25.5,617,767
+Boston Red Sox,BOS,2018,American,East,162,108,54,0,0.667,-,876,647
+New York Yankees,NYY,2018,American,East,162,100,62,0,0.617,8,851,669
+Tampa Bay Rays,TBR,2018,American,East,162,90,72,0,0.556,18,716,646
+Toronto Blue Jays,TOR,2018,American,East,162,73,89,0,0.451,35,709,832
+Baltimore Orioles,BAL,2018,American,East,162,47,115,0,0.29,61,622,892
+Cleveland Indians,CLE,2018,American,Central,162,91,71,0,0.562,-,818,648
+Minnesota Twins,MIN,2018,American,Central,162,78,84,0,0.481,13,738,775
+Detroit Tigers,DET,2018,American,Central,162,64,98,0,0.395,27,630,796
+Chicago White Sox,CHW,2018,American,Central,162,62,100,0,0.383,29,656,848
+Kansas City Royals,KCR,2018,American,Central,162,58,104,0,0.358,33,638,833
+Houston Astros,HOU,2018,American,West,162,103,59,0,0.636,-,797,534
+Oakland Athletics,OAK,2018,American,West,162,97,65,0,0.599,6,813,674
+Seattle Mariners,SEA,2018,American,West,162,89,73,0,0.549,14,677,711
+Anaheim Angels,LAA,2018,American,West,162,80,82,0,0.494,23,721,722
+Texas Rangers,TEX,2018,American,West,162,67,95,0,0.414,36,737,848
+Atlanta Braves,ATL,2019,National,East,162,97,65,0,0.599,-,855,743
+Washington Nationals,WSN,2019,National,East,162,93,69,0,0.574,4,873,724
+New York Mets,NYM,2019,National,East,162,86,76,0,0.531,11,791,737
+Philadelphia Phillies,PHI,2019,National,East,162,81,81,0,0.5,16,774,794
+Miami Marlins,MIA,2019,National,East,162,57,105,0,0.352,40,615,808
+St. Louis Cardinals,STL,2019,National,Central,162,91,71,0,0.562,-,764,662
+Milwaukee Brewers,MIL,2019,National,Central,162,89,73,0,0.549,2,769,766
+Chicago Cubs,CHC,2019,National,Central,162,84,78,0,0.519,7,814,717
+Cincinnati Reds,CIN,2019,National,Central,162,75,87,0,0.463,16,701,711
+Pittsburgh Pirates,PIT,2019,National,Central,162,69,93,0,0.426,22,758,911
+Los Angeles Dodgers,LAD,2019,National,West,162,106,56,0,0.654,-,886,613
+Arizona Diamondbacks,ARI,2019,National,West,162,85,77,0,0.525,21,813,743
+San Francisco Giants,SFG,2019,National,West,162,77,85,0,0.475,29,678,773
+Colorado Rockies,COL,2019,National,West,162,71,91,0,0.438,35,835,958
+San Diego Padres,SDP,2019,National,West,162,70,92,0,0.432,36,682,789
+New York Yankees,NYY,2019,American,East,162,103,59,0,0.636,-,943,739
+Tampa Bay Rays,TBR,2019,American,East,162,96,66,0,0.593,7,769,656
+Boston Red Sox,BOS,2019,American,East,162,84,78,0,0.519,19,901,828
+Toronto Blue Jays,TOR,2019,American,East,162,67,95,0,0.414,36,726,828
+Baltimore Orioles,BAL,2019,American,East,162,54,108,0,0.333,49,729,981
+Minnesota Twins,MIN,2019,American,Central,162,101,61,0,0.623,-,939,754
+Cleveland Indians,CLE,2019,American,Central,162,93,69,0,0.574,8,769,657
+Chicago White Sox,CHW,2019,American,Central,161,72,89,0,0.447,28.5,708,832
+Kansas City Royals,KCR,2019,American,Central,162,59,103,0,0.364,42,691,869
+Detroit Tigers,DET,2019,American,Central,161,47,114,0,0.292,53.5,582,915
+Houston Astros,HOU,2019,American,West,162,107,55,0,0.66,-,920,640
+Oakland Athletics,OAK,2019,American,West,162,97,65,0,0.599,10,845,680
+Texas Rangers,TEX,2019,American,West,162,78,84,0,0.481,29,810,878
+Anaheim Angels,LAA,2019,American,West,162,72,90,0,0.444,35,769,868
+Seattle Mariners,SEA,2019,American,West,162,68,94,0,0.42,39,758,893
